@@ -4,8 +4,6 @@ languages: html, css
 resources:
 ---
 
-# Deploy on Day One
-
 ## Contents
 
 |Section                            |
