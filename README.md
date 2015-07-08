@@ -1,25 +1,3 @@
----
-tags: deploy, team, git, pull request
-languages: html, css
-resources:
----
-
-# Deploy on Day One
-
-## Contents
-
-|Section                            |
-|-----------------------------------|
-|[History](#history)                |
-|[Assignment](#assignment)          |
-|[Requirements](#requirements)      |
-|[File Structure](#structure)       |
-|[Getting Started](#getting-started)|
-|[Next Steps](#next-steps)          |
-|[Final Steps](#final-steps)        |
-|[Resources](#resources)            |
-|[Issues](#issues)                  |
-
 ## History
 
 Welcome to Flatiron! Every semester, a student index page is created. It looks something like [this](http://students.flatironschool.com/). Links from this page go to individual profiles, which look like [this](http://students.flatironschool.com/students/lauraconwill.html).
