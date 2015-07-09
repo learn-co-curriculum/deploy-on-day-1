@@ -103,7 +103,7 @@ Now that you have the repo, you'll want to get into it. Remember [cd](http://lin
 
 Take a look at `index.html` and `students/student_name.html` in the browser. You can do this many ways but one is by opening finder and right clicking on index.html. Then click on "Open with" then the name of your favorite browser.
 
-#### Make a New Branch
+#### Make a New Branch2123123123123132123
 
 * From the root directory, [checkout a new branch](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Branching). This new branch's name should be the name of the student whose profile you're going to create.  
   * For instance, the branch would be titled `zoe-perez`.
