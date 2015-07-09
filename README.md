@@ -10,7 +10,7 @@ resources:
 
 |Section                            |
 |-----------------------------------|
-|[History](#history)                |
+|[History](#hist8ory)                |
 |[Assignment](#assignment)          |
 |[Requirements](#requirements)      |
 |[File Structure](#structure)       |
