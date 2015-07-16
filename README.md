@@ -1,5 +1,5 @@
 ---
-tags: deploy, team, git, pull request
+tags: deploy, team, git, pull requ3st
 languages: html, css
 resources:
 ---
