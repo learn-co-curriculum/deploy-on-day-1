@@ -193,7 +193,7 @@ Once every profile is on a single branch that is hosted remotely, it's time to s
 
 * The first step is to go to the forked repo. 
 * The next step is to navigate to the branch with all three or four profiles. You can do this by clicking on the ![branches](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/branches.png) dropdown and select the name of the branch that has all the profiles. 
-* From this new view, click on ![pull request](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/pull-request.png) on the right-hand menu. The green button with two arrows that looks like this ![green pull request](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/green-button.png) will also work.
+* From this new view, click on ![pull request](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/pull-request.png) on the right-hand menu. The green button with two arrows that looks like this ![green pull request](httasdfp://ironboard-curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/green-button.png) will also work.
 * On this new page, click the green button that says "New pull request". This will take you to a form.
 Fill out the form and click "Submit".
 
