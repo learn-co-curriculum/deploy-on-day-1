@@ -2,8 +2,7 @@
 tags: deploy, team, git, pull request
 languages: html, css
 resources:
----
-
+---klk
 # Deploy on Day One
 
 ## Contents
