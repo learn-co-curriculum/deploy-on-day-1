@@ -10,7 +10,9 @@ table {
 
 fieldset, img { border: 0 }
 
-ol, ul { list-style: none }
+ol, ul { list-style: none;
+         text-align: center;
+       }
 
 caption, th { text-align: left }
 
@@ -1582,6 +1584,8 @@ body.students .home-blog {
     display: block;
     margin-left: -2.2%;
     max-width: 1020px;
+
+
 }
 
 .home-blog-post li{
